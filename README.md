@@ -1,4 +1,4 @@
-#Varnothsava Event Web Page for Web Craft
+#Varnothsava Event Web Page for College Fest built for WebCraft Competition
 - Front end is Built using HTML,CSS AND Javascript
 - Back end is Built using PHP And MySQL is used for Database
 
